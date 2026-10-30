@@ -1,0 +1,4 @@
+interface:
+  display_name: "본인 설명 연습"
+  short_description: "본인이 먼저 설명하고 구현과 근거에 맞춰 이해의 빈틈을 확인합니다"
+  default_prompt: "$explain-your-work 현재 작업에 필요한 범위만 적용해 주세요."

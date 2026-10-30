@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+auth.json
+practice-codex-home/
+runtime/
+submissions/
+private/
+local-only/
+*.log

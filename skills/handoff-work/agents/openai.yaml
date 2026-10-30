@@ -1,0 +1,4 @@
+interface:
+  display_name: "작업 인계"
+  short_description: "중요 결정과 검증 결과, 다음 행동을 이어갈 수 있게 남깁니다"
+  default_prompt: "$handoff-work 현재 작업에 필요한 범위만 적용해 주세요."
